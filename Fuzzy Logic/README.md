@@ -1,1 +1,1 @@
-Pada topik ini algoritma di susun menggunakan bahasa pemrograman Java
+Riset ini dimaksudkan untuk memperlihatkan proses kerja Algoritma Fuzzy pada masalah optimasi. Tujuannya adalah menemukan memilih 20 influencer terbaik dari 100 influencer yang ada. Berdasarkan simulasi yang disusun dalam bentuk program komputer  menggunakan  Bahasa pemrograman Java diperoleh 20 influencer terbaik berdasarkan jumlah followers dan engagementnya. 
